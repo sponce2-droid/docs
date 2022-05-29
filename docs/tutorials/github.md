@@ -12,6 +12,8 @@ permalink: /tutorials/github
 
 This tutorial aims to catch you up to speed on using GitHub effectively for our development. Most things you pick up through practice, but if you get stuck, you can always refer to this guide.
 
+If you want more practice, try going to https://cs421sp22.github.io/homework/hw6/index.html#task-3  
+
 ## Terminology
 
 - **Git** is a version control system (VCS) that was designed for handling non-linear workflows.
